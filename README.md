@@ -30,4 +30,3 @@ This project analyzes **1,000+ sales transactions** from Amazon across **3 major
 - **Data Wrangling & Feature Engineering**  
 - **Exploratory Data Analysis (EDA)**  
 
-## 📂 Project Structure  
